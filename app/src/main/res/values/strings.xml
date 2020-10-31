@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Поиск авиабилетов</string>
+    <string-array name="cities">
+        <item>Иркутск</item>
+        <item>Москва</item>
+        <item>Новосибирск</item>
+        <item>Санкт-Петербург</item>
+        <item>Нью-Йорк</item>
+        <item>Вашингтон</item>
+    </string-array>
+</resources>
